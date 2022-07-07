@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Christian Tsegaye (@Z-Guy)
+👋 Hi, I’m Christian Tsegaye (@Z-Guy)
 
-- 👀 I’m proficient in Java, SQL, and Web Development
-- 🌱 I’m currently learning Angular and TypeScript
-- 💞️ I’m looking for roles in Fullsatck development
+  - 👀 I’m proficient in Java, SQL, and Web Development
+  - 🌱 I’m currently learning Angular and TypeScript
+  - 💞️ I’m looking for roles in Fullsatck development
 
 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/christian-tsegaye/)
